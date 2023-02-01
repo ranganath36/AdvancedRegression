@@ -30,11 +30,11 @@ Business Goal for the company - The above model will be used by the management t
 
 
 ## Technologies Used
-  python        - version 3.9.12
-  matplotlib    - version 3.5.1
-  Seaborn       - version 0.11.2
-  sklearn       - version 1.0.2
-  statsmodel    - version 0.13.2
+  python        - version 3.9.12<br>
+  matplotlib    - version 3.5.1<br>
+  Seaborn       - version 0.11.2<br>
+  sklearn       - version 1.0.2<br>
+  statsmodel    - version 0.13.2<br>
 
 
 
